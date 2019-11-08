@@ -9,6 +9,7 @@ RL_data/
 source/__pyc
 RL_data_local/
 td3_hvac_tensorboard/
+tmp/
 
 #extensions
 *.code-workspace
